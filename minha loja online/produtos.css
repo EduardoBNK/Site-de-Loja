@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.logo{
+    width: 300px;
+}
+#home{
+    display: flex;
+    align-items: center;
+   
+    
+}
+.menu ul{
+  padding-left: 175px;
+  font-size: 20px;
+}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px;
+    
+}
+.menu2{
+    justify-content: space-between;
+    padding-left: 280px;
+    font-size: 20px;
+    
+}
+.menu2 ul li{
+    list-style: none;
+    display: inline-block;
+    
+  
+}.carrinho{
+    justify-content: space-between;
+    width: 70px;
+    padding-bottom: 30px;
+   
+}
+.img1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 50px;
+   
+    
+}
+.img2{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.foto1:hover{
+    scale: 1.2;
+    transition: .5s;
+   
+}
+.foto2:hover{
+    scale: 1.2;
+    transition: .5s;
+}
+.foto3:hover{
+    scale: 1.2;
+    transition: .5s;
+
+}
+.foto4:hover{
+    scale: 1.2;
+    transition: .5s;
+}
+.foto5:hover{
+    scale: 1.2;
+    transition: .5s;
+}
+.foto6:hover{
+    scale: 1.2;
+    transition: .5s;
+}
+.foto7:hover{
+    scale: 1.2;
+    transition: .5s;
+}
+.foto8:hover{
+    scale: 1.2;
+    transition: .5s;
+}
+.foto9:hover{
+    scale: 1.2;
+    transition: .5s;
+}
+.foto10:hover{
+    scale: 1.2;
+    transition: .5s;
+}
+.foto1{
+    padding: 40px;
+}
+.foto2{
+    padding: 40px;
+}
+.foto3{
+    padding: 40px;
+}
+.foto4{
+    padding: 40px;
+}
+.foto5{
+    padding: 40px;
+}
+.foto6{
+    padding: 40px;
+}
+.foto7{
+    padding: 40px;
+}
+.foto8{
+    padding: 40px;
+}
+.foto9{
+    padding: 40px;
+}
+.foto10{
+    padding: 40px;
+}
+#home li a:hover{
+    color: orange;
+}
+#home li a{
+    color: black;
+}
